@@ -1,8 +1,3 @@
-<!-- Header with Image -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/yourheaderimage.png" alt="Header Image" width="100%" />
-</div>
-
 <!-- Greeting -->
 <h2 align="center">Hi there, I'm <strong>Hyunyoung Oh</strong> 👋</h2>
 
@@ -67,33 +62,27 @@
   </tr>
 </table>
 
-<!-- ## 🌟 Featured Projects
-
-### 🔹 [Project Name 1](https://github.com/hyunn0o/project1)
-
-- Brief description of the project.
-- Technologies used: Java, Spring, MySQL.
-- [Live Demo](https://yourprojectdemo.com)
-
-### 🔹 [Project Name 2](https://github.com/hyunn0o/project2)
-
-- Brief description of the project.
-- Technologies used: JavaScript, HTML5, CSS3.
-- [Live Demo](https://yourprojectdemo.com) -->
-
 ## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hyunn0o&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=hyunn0o&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunn0o&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 📫 How to Reach Me
 
-- 📧 **Email**: [oh0777235@example.com](mailto:oh0777235@example.com)
-- 💼 **LinkedIn**: [Hyunyoung Oh](https://www.linkedin.com/in/hyunyoung-oh-292603277/)
+<!-- - 📧 **Email**: [oh0777235@example.com](mailto:oh0777235@example.com)
+- 💼 **LinkedIn**: [Hyunyoung Oh](https://www.linkedin.com/in/hyunyoung-oh-292603277/) -->
+
+<p align="center">
+  <a href="mailto:oh0777235@example.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/hyunyoung-oh-292603277/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 <!-- Footer with Quote -->
 <p align="center">
