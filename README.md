@@ -32,8 +32,6 @@
   </a>
 </p>
 
----
-
 ## 🛠 Tech Stack
 
 <table align="center">
@@ -69,8 +67,6 @@
   </tr>
 </table>
 
----
-
 <!-- ## 🌟 Featured Projects
 
 ### 🔹 [Project Name 1](https://github.com/hyunn0o/project1)
@@ -85,8 +81,6 @@
 - Technologies used: JavaScript, HTML5, CSS3.
 - [Live Demo](https://yourprojectdemo.com) -->
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -96,14 +90,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunn0o&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
----
-
 ## 📫 How to Reach Me
 
 - 📧 **Email**: [oh0777235@example.com](mailto:oh0777235@example.com)
 - 💼 **LinkedIn**: [Hyunyoung Oh](https://www.linkedin.com/in/hyunyoung-oh-292603277/)
-
----
 
 <!-- Footer with Quote -->
 <p align="center">
