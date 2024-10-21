@@ -32,7 +32,8 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/java/007396" width="48" height="48" alt="Java" />
+      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" width="48" height="48" alt="Java" />
+      <!-- <img src="https://cdn.simpleicons.org/java/007396" width="48" height="48" alt="Java" /> -->
       <br>Java
     </td>
     <td align="center" width="96">
