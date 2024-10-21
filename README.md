@@ -67,7 +67,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hyunn0o&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=hyunn0o&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
