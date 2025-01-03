@@ -1,5 +1,5 @@
 <!-- Greeting -->
-<h2 align="center">Hi there, I'm <strong>Hyunyoung Oh</strong> 👋</h2>
+<h2 align="center">Hi there, I'm <strong>Hyun0o</strong> 👋</h2>
 
 <!-- Subheading -->
 <p align="center">
